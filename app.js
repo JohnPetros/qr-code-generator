@@ -1,10 +1,11 @@
 const qrCode = document.querySelector(".qr-code");
 const button = document.querySelector("button");
 const input = document.querySelector("input");
+let currentLinkHref = "";
 
 function navigateToLink() {
   const link = document.createElement("a");
-  link.href = input.value;
+  link.href = currentLinkHref;
   link.target = "_blank";
   link.click();
 }
@@ -20,6 +21,7 @@ function generateQrCode() {
     colorLight: "hsl(216, 95%, 58%)",
   });
 
+  currentLinkHref = input.value;
   input.value = "";
 }
 

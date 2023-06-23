@@ -1,52 +1,45 @@
 <h1 align="center">
-    QR-code card 📲
+    QR-code Generator 📲
 </h1>
 
 <div align="center">
    <a href="https://github.com/JohnPetros">
       <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-blueviolet">
    </a>
-   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/qr-code-card">
-   <a href="https://github.com/JohnPetros/qr-code-card/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/qr-code-card">
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/qr-code-generator">
+   <a href="https://github.com/JohnPetros/qr-code-generator/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/qr-code-generator">
    </a>
   </a>
    </a>
-   <a href="https://github.com/JohnPetros/qr-code-card/blob/main/LICENSE.md">
-      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/qr-code-card">
+   <a href="https://github.com/JohnPetros/qr-code-generator/blob/main/LICENSE.md">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/qr-code-generator">
    </a>
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/qr-code-card?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/qr-code-generator?style=social">
 </div>
 
 <br>
 
 ## 🖥️ Projeto
 
-Projeto de **Cartão contendo um QR-code**. Esse projeto corresponde ao desafio [**QR code component**](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) do [Frontend-mentor](https://www.frontendmentor.io/), que é uma plataforma online que oferece desafios práticos para desenvolvedores aprimorarem suas habilidades em front-end.
+Projeto de **Gerador de QR-Code**, em que o usuário pode gerar um código QR a partir de qualquer link. Esse projeto é inspirado no desafio [**QR code component**](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) do [Frontend-mentor](https://www.frontendmentor.io/), que é uma plataforma online que oferece desafios práticos para desenvolvedores aprimorarem suas habilidades em front-end.
 
 ### ⏹️ Demonstração
 
-### Desktop 💻
-
-<div align="center">
-  <img width="750" alt="Imagem de demonstração do projeto versão desktop" src="./design/desktop-design.jpg" />
-</div>
-
-### mobile 📱
-
-<div align="center">
-  <img width="350" alt="Imagem de demonstração do projeto versão mobile" src="./design/mobile-design.jpg" />
-</div>
-
+ ![Imagem da aplicação funcionando](image.png)
 ---
 
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+✔️ **[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
+
 ✔️ **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 
 ✔️ **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+
+✔️ **[QRCode.js](https://github.com/davidshimjs/qrcodejs)**
 
 ---
 
@@ -61,7 +54,7 @@ Embora não seja obrigatório, para rodar a aplicação de uma forma mais práti
 ```bash
 
 # Clone este repositório no terminal/cmd
-$ git clone https://github.com/JohnPetros/qr-code-card.git
+$ git clone https://github.com/JohnPetros/qr-code-generator.git
 
 # Acesse a pasta do projeto
 $ cd productpreview-card
@@ -78,7 +71,7 @@ $ code .
 
 ## ⚙️ Deploy
 
-O deploy desse projeto foi realizado através do **[Github Pages](https://pages.github.com/)**. Isso implica que você pode acessar o projeto funcionando acessando esse **[link](https://johnpetros.github.io/qr-code-card/)**.
+O deploy desse projeto foi realizado através do **[Github Pages](https://pages.github.com/)**. Isso implica que você pode acessar o projeto funcionando acessando esse **[link](https://johnpetros.github.io/qr-code-generator/)**.
 
 ---
 
