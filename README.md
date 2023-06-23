@@ -22,7 +22,7 @@
 
 ## 🖥️ Projeto
 
-Projeto de **Cartão contendo um QR-code**. Esse projeto corresponde ao desafio [**Product ppreview card component**](https://www.frontendmentor.io/challenges/qr-code-card-component-GO7UmttRfa) do [Frontend-mentor](https://www.frontendmentor.io/), que é uma plataforma online que oferece desafios práticos para desenvolvedores aprimorarem suas habilidades em front-end.
+Projeto de **Cartão contendo um QR-code**. Esse projeto corresponde ao desafio [**QR code component**](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) do [Frontend-mentor](https://www.frontendmentor.io/), que é uma plataforma online que oferece desafios práticos para desenvolvedores aprimorarem suas habilidades em front-end.
 
 ### ⏹️ Demonstração
 
