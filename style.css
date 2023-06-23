@@ -3,6 +3,7 @@
   --light-gray: hsl(212, 45%, 89%);
   --grayish-blue: hsl(220, 15%, 55%);
   --dark-blue: hsl(218, 44%, 22%);
+  --blue: hsl(216, 95%, 58%);
 }
 
 * {
@@ -38,6 +39,12 @@ body {
 .card .qr-code {
   border-radius: 12px;
   overflow: hidden;
+  width: 100%;
+  height: 320px;
+  background-color: var(--blue);
+  display: grid;
+  place-content: center;
+  cursor: pointer;
 }
 
 .card .qr-code img {
