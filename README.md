@@ -6,16 +6,16 @@
    <a href="https://github.com/JohnPetros">
       <img alt="Made by JohnPetros" src="https://img.shields.io/badge/made%20by-JohnPetros-blueviolet">
    </a>
-   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/qr-code-generator">
-   <a href="https://github.com/JohnPetros/qr-code-generator/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/qr-code-generator">
+   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/JohnPetros/qr-code-card">
+   <a href="https://github.com/JohnPetros/qr-code-card/commits/main">
+      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/JohnPetros/qr-code-card">
    </a>
   </a>
    </a>
-   <a href="https://github.com/JohnPetros/qr-code-generator/blob/main/LICENSE.md">
-      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/qr-code-generator">
+   <a href="https://github.com/JohnPetros/qr-code-card/blob/main/LICENSE.md">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/JohnPetros/qr-code-card">
    </a>
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/qr-code-generator?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/JohnPetros/qr-code-card?style=social">
 </div>
 
 <br>
@@ -54,7 +54,7 @@ Embora não seja obrigatório, para rodar a aplicação de uma forma mais práti
 ```bash
 
 # Clone este repositório no terminal/cmd
-$ git clone https://github.com/JohnPetros/qr-code-generator.git
+$ git clone https://github.com/JohnPetros/qr-code-card.git
 
 # Acesse a pasta do projeto
 $ cd productpreview-card
@@ -71,7 +71,7 @@ $ code .
 
 ## ⚙️ Deploy
 
-O deploy desse projeto foi realizado através do **[Github Pages](https://pages.github.com/)**. Isso implica que você pode acessar o projeto funcionando acessando esse **[link](https://johnpetros.github.io/qr-code-generator/)**.
+O deploy desse projeto foi realizado através do **[Github Pages](https://pages.github.com/)**. Isso implica que você pode acessar o projeto funcionando acessando esse **[link](https://johnpetros.github.io/qr-code-card/)**.
 
 ---
 
